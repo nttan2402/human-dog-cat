@@ -3,3 +3,6 @@ function Mouse(name) {
 }
 
 var jerry = new Mouse('jerry');
+
+
+module.exports = Mouse;

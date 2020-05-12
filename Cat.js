@@ -8,3 +8,5 @@ Cat.prototype.eat = function(mouse) {
 };
 
 var tom = new Cat('tom');
+
+module.exports = Cat;
